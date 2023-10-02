@@ -1,0 +1,11 @@
+Package: blacksmith-cli
+Version: 1.0
+Architecture: all
+Maintainer: Ahmad Lutfi bin Salim <matluthfi17@gmail.com>
+Filename: deb-folder/testpackage.deb
+Size: 29339136
+MD5sum: 1c21c27584c58b4c3ed951aabc7d3f60
+SHA1: 57ae3a2f490cbe91239aac4bd2a9a2013998513c
+SHA256: 5f807ef0333ae2636570a9402b0f03d127e7e73a3b2c87e8564d74385c213816
+Description: Package in New Ubuntu
+
