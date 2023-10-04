@@ -1,0 +1,22 @@
+Package: blacksmith-cli
+Version: 1.1
+Architecture: all
+Maintainer: Ahmad Lutfi bin Salim <matluthfi17@gmail.com>
+Filename: deb-folder/testpackage.deb
+Size: 29339134
+MD5sum: f253eb1f4cec3b12033cb0f46002bbf9
+SHA1: 9db08bbf59a17b50e1b7efb46011f24d10b19bb8
+SHA256: 893176d6f82a71f80fce6d0d3910539990c1fc71c1dba4a438b82d9460436580
+Description: Package in New Ubuntu
+
+Package: blacksmith-cli.1.1
+Version: 1.1
+Architecture: all
+Maintainer: Ahmad Lutfi bin Salim <matluthfi17@gmail.com>
+Filename: deb-folder/testpackage.1.1.deb
+Size: 29339136
+MD5sum: 20a4c656be69ef8abdbd65cbd77b8e54
+SHA1: 3db2db6742cfae829fa8de0aaa58805b7fc25dcb
+SHA256: 3d6aa425f88d9aabc316ee657df5307efc3ca513bb3027fb145fa2d6097af799
+Description: Package in New Ubuntu
+
